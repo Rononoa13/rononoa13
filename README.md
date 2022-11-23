@@ -1,10 +1,15 @@
 ###           Hello World 🌏. Namaste 🙏. I am from Nepal ![image](https://github.com/Rononoa13/try/blob/main/nepal.gif?raw=true)
 
 🔭 I’m currently working on ...
+
 🌱 I’m currently learning ...
 
 ### Languages and Tools:
-![image](https://user-images.githubusercontent.com/24466959/203560289-2e3e4256-c7b0-497f-881a-46b10ba42a0a.png) ![image](https://user-images.githubusercontent.com/24466959/203560455-4a297662-f6b5-4ad4-a114-531f4e0d0e4b.png) ![image](https://user-images.githubusercontent.com/24466959/203560486-d6936f1b-bb8e-4b07-8211-d7c07507c575.png)
+![image](https://user-images.githubusercontent.com/24466959/203562713-8bbc63c1-2467-4587-bf38-6913d5cf5969.png) ![image](https://user-images.githubusercontent.com/24466959/203562907-f592be9e-3b0e-4897-a8fa-6476f8f21b8d.png)
+ ![image](https://user-images.githubusercontent.com/24466959/203562840-13d39498-bc25-4cbf-8248-ccf73672e125.png)
+ ![image](https://user-images.githubusercontent.com/24466959/203562783-a8366df0-2a4e-4da7-b53b-cc6ab4b8c94c.png)
+
+
 
 
 
