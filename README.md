@@ -5,7 +5,8 @@
 🌱 I’m currently learning ...
 
 ### Languages and Tools:
-![image](https://user-images.githubusercontent.com/24466959/203562713-8bbc63c1-2467-4587-bf38-6913d5cf5969.png) ![image](https://user-images.githubusercontent.com/24466959/203562907-f592be9e-3b0e-4897-a8fa-6476f8f21b8d.png)
+![image](https://user-images.githubusercontent.com/24466959/203563117-7038b70a-e8bc-48dd-9857-3afab550e762.png)
+ ![image](https://user-images.githubusercontent.com/24466959/203562907-f592be9e-3b0e-4897-a8fa-6476f8f21b8d.png)
  ![image](https://user-images.githubusercontent.com/24466959/203562840-13d39498-bc25-4cbf-8248-ccf73672e125.png)
  ![image](https://user-images.githubusercontent.com/24466959/203562783-a8366df0-2a4e-4da7-b53b-cc6ab4b8c94c.png)
 
