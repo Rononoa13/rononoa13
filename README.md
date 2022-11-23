@@ -1,7 +1,6 @@
-### Hello World. 
-![image](https://user-images.githubusercontent.com/24466959/203549521-ab2ab4b3-2182-46ed-9f6d-13bd26aaa34e.png). 
-## I am from Nepal :nepal: 
-![image](https://github.com/Rononoa13/try/blob/main/nepal.gif?raw=true)
+### Namaste :namaste:
+## Hello World.![image](https://user-images.githubusercontent.com/24466959/203549521-ab2ab4b3-2182-46ed-9f6d-13bd26aaa34e.png). 
+## I am from Nepal ![image](https://github.com/Rononoa13/try/blob/main/nepal.gif?raw=true)
 
 <!--
 **Rononoa13/rononoa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
