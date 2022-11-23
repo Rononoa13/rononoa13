@@ -1,4 +1,4 @@
-### Hello World.![image](https://img.icons8.com/color/2x/globe.png). Namaste. I am from Nepal ![image](https://github.com/Rononoa13/try/blob/main/nepal.gif?raw=true)
+### Hello World :world_map: . Namaste 🙏. I am from Nepal ![image](https://github.com/Rononoa13/try/blob/main/nepal.gif?raw=true)
 
 <!--
 **Rononoa13/rononoa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
