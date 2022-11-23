@@ -1,4 +1,12 @@
-### Hello World 🌏. Namaste 🙏. I am from Nepal ![image](https://github.com/Rononoa13/try/blob/main/nepal.gif?raw=true)
+###           Hello World 🌏. Namaste 🙏. I am from Nepal ![image](https://github.com/Rononoa13/try/blob/main/nepal.gif?raw=true)
+
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+
+### Languages and Tools:
+![image](https://user-images.githubusercontent.com/24466959/203560289-2e3e4256-c7b0-497f-881a-46b10ba42a0a.png) ![image](https://user-images.githubusercontent.com/24466959/203560455-4a297662-f6b5-4ad4-a114-531f4e0d0e4b.png) ![image](https://user-images.githubusercontent.com/24466959/203560486-d6936f1b-bb8e-4b07-8211-d7c07507c575.png)
+
+
 
 <!--
 **Rononoa13/rononoa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
